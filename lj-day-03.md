@@ -23,4 +23,20 @@ I can get.
   Also learned some cool css stuff. I learned how to have a fixed gif in the
 background. If I scroll up or down gif stays static in the same position.
 
-  I also got to have a lot of practice in loops and conditional statements. 
+  I also got to have a lot of practice in loops and conditional statements.
+
+**Day 4**
+
+Day 4 the most important thing I learned is hoe the boxes work in the web page.
+How to place them, how to give them attributes like with and height. Something
+very important is how to float boxes. And regarding floating boxes how to
+reset the float before getting to the next element in HTML so we do not have
+to float that box.
+
+**Day 7**
+
+Today I learned a lot about functions and Arrays. The most interesting
+part today was doing a function inside of a function.
+
+Very interesting how arrays work and how can functions return multiple values
+when acting as an array. 
