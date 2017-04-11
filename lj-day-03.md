@@ -33,10 +33,23 @@ very important is how to float boxes. And regarding floating boxes how to
 reset the float before getting to the next element in HTML so we do not have
 to float that box.
 
-**Day 7**
+**Day 5**
 
 Today I learned a lot about functions and Arrays. The most interesting
 part today was doing a function inside of a function.
 
 Very interesting how arrays work and how can functions return multiple values
-when acting as an array. 
+when acting as an array.
+
+**Day 6**
+
+  Today I learned how to do random number through through methods in Math.
+Also I brushed up in some of my math to learn how to do the random number
+method with integer limits.
+
+  Also something very useful that I learned was to push data into n array using
+a for loop.
+
+  The creation of objects in a literal way was also learned today. We started a
+project in which we are starting to use css. I learned how to insert a font
+style into the web page from google fonts. 
