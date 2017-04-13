@@ -52,4 +52,27 @@ a for loop.
 
   The creation of objects in a literal way was also learned today. We started a
 project in which we are starting to use css. I learned how to insert a font
-style into the web page from google fonts. 
+style into the web page from google fonts.
+
+**Day 7**
+
+  Today the main thing that I learned is how to create tables. We use different
+tags. The first tag to start is <table>. After that one we want to create the
+rows so we use <tr>. After that we want to create columns for the row or rows
+we just created. <td> is used to create columns in the table.
+
+  Of course rows and tables can have headings. The headings are done by a tag
+same for the rows and the columns. The tag we use is a <th>.
+
+**Day 8**
+
+  Event handlers is what we covered in this class. The even handlers are used
+to trigger something the the user does something with the key board, the mouse
+or any other interacting interface device between the human and the laptop,
+desktop, or any mobile device out there that uses a browser.
+
+  The event handlers are assigned to an element. Then in the syntax we type what
+kind of action is going to trigger the element. This could be a click, focus
+blur, etc. There are many actions that can trigger the action. Then a function
+assigned to the event handler or event listener trigger this function than will
+perform a series of instructions. 
