@@ -75,4 +75,27 @@ desktop, or any mobile device out there that uses a browser.
 kind of action is going to trigger the element. This could be a click, focus
 blur, etc. There are many actions that can trigger the action. Then a function
 assigned to the event handler or event listener trigger this function than will
-perform a series of instructions. 
+perform a series of instructions.
+
+**Day 9**
+
+   We went over forms. How to get data from the user and how to use this data
+in our methods. We continued with more css for the cookie stand. We also went
+over the code for the cookie stand. Learned more about instances and how to
+use methods to build a table with information. \
+
+   It was pretty cool that we got lab time to finish the cookie stand and I got
+a chance to research more css tricks. I learned actually have to give movement
+to the salmon we have on sales.html.
+
+**Day 9**
+
+  Today I learned something related to deadlines. How companies give the  
+developers deadlines to finish a project. Also learned a lot about css and the
+way to implement it to a project with a deadline. Going over the cookie stand
+code was very helpful.
+
+   I read this morning about debugging and the major tools a developer has
+to identify problems in the code. Also learned about testing, how it is done
+and a general idea on how developers use testing apps to see if the code works
+before it is shown to the client.   
