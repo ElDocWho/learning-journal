@@ -88,7 +88,7 @@ use methods to build a table with information. \
 a chance to research more css tricks. I learned actually have to give movement
 to the salmon we have on sales.html.
 
-**Day 9**
+**Day 10**
 
   Today I learned something related to deadlines. How companies give the  
 developers deadlines to finish a project. Also learned a lot about css and the
@@ -99,3 +99,16 @@ code was very helpful.
 to identify problems in the code. Also learned about testing, how it is done
 and a general idea on how developers use testing apps to see if the code works
 before it is shown to the client.   
+
+**Day 11**
+
+  Today we basically learned about videos and how to embed them in our web page.
+Flash is one that caught my attention. To me it seems like the easiest way to
+embed video. Too bad it is not going to last long because Apple is not using it
+anymore.
+
+  We also learned about the <video> tag. This is a new tag, so not all the
+browsers support it. A disadvantage of this tag is that it does not support
+Digital Rights Management.
+
+  
