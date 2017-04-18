@@ -52,4 +52,50 @@ a for loop.
 
   The creation of objects in a literal way was also learned today. We started a
 project in which we are starting to use css. I learned how to insert a font
-style into the web page from google fonts. 
+style into the web page from google fonts.
+
+**Day 7**
+
+  Today the main thing that I learned is how to create tables. We use different
+tags. The first tag to start is <table>. After that one we want to create the
+rows so we use <tr>. After that we want to create columns for the row or rows
+we just created. <td> is used to create columns in the table.
+
+  Of course rows and tables can have headings. The headings are done by a tag
+same for the rows and the columns. The tag we use is a <th>.
+
+**Day 8**
+
+  Event handlers is what we covered in this class. The even handlers are used
+to trigger something the the user does something with the key board, the mouse
+or any other interacting interface device between the human and the laptop,
+desktop, or any mobile device out there that uses a browser.
+
+  The event handlers are assigned to an element. Then in the syntax we type what
+kind of action is going to trigger the element. This could be a click, focus
+blur, etc. There are many actions that can trigger the action. Then a function
+assigned to the event handler or event listener trigger this function than will
+perform a series of instructions.
+
+**Day 9**
+
+   We went over forms. How to get data from the user and how to use this data
+in our methods. We continued with more css for the cookie stand. We also went
+over the code for the cookie stand. Learned more about instances and how to
+use methods to build a table with information. \
+
+   It was pretty cool that we got lab time to finish the cookie stand and I got
+a chance to research more css tricks. I learned actually have to give movement
+to the salmon we have on sales.html.
+
+**Day 9**
+
+  Today I learned something related to deadlines. How companies give the  
+developers deadlines to finish a project. Also learned a lot about css and the
+way to implement it to a project with a deadline. Going over the cookie stand
+code was very helpful.
+
+   I read this morning about debugging and the major tools a developer has
+to identify problems in the code. Also learned about testing, how it is done
+and a general idea on how developers use testing apps to see if the code works
+before it is shown to the client.   
