@@ -111,4 +111,31 @@ anymore.
 browsers support it. A disadvantage of this tag is that it does not support
 Digital Rights Management.
 
-  
+**Day 12**
+
+  Today we learned about canvas and how to create charts. the <canvas> tag is
+basically another box which creates an area in which we will draw.We also
+learned about libraries and how to use them in our program. Libraries are just
+scripts created by other developed which we can use in our programs to make
+things faster.
+
+  A clear example of using libraries is charts.js. Charts js helps us create
+a chart with data we have. It can be many different kinds of charts: pie, bar,
+doughnut, etc. This facilitates the creation of charts a lot. A lot less
+commands to create a chart.
+
+**Day 13 **
+
+  today basically the most important thing we learned a is local storage. We
+learned how local storage works and how to use it. It can be use in most of our
+application when not using a database.
+
+  We used the JSON command to store data in the local storage. Through JSON we
+stringified  an Array. Then we store the Array in local storage in the
+data type of a string. To get this string out of the local storage we used JSON
+again. We parse the string and it goes back to the data type of Array.
+
+  Doing all this seems like a lot of code just to store an Array but it is
+needed. The values persist even if u reload the browser or even x out of it. Of
+course when using enormous amounts of that we need to use a database instead
+of local storage. 
