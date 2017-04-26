@@ -138,4 +138,33 @@ again. We parse the string and it goes back to the data type of Array.
   Doing all this seems like a lot of code just to store an Array but it is
 needed. The values persist even if u reload the browser or even x out of it. Of
 course when using enormous amounts of that we need to use a database instead
-of local storage. 
+of local storage.
+
+***Day 14**
+
+  Today we went over animations in css. We learned about transforms, There are
+two types of transforms, 2D and 3D. In 2D we can scale, rotate, translate and
+skew. The syntax is as follows:
+
+div {
+  -webkit-transform: scale(1.5);
+     -moz-transform: scale(1.5);
+       -o-transform: scale(1.5);
+          transform: scale(1.5);
+}
+
+In 3D we can use also scale, rotate, translate and skew.
+
+  We also learned animations through keyframes. Here is an example of keyframes:
+
+  @-webkit-keyframes bouncing {
+    40%, 70%, 90% {
+      bottom: 0;
+      -webkit-animation-timing-function: ease-out;
+    }
+
+**Day 15**
+
+  The highlight of today was jQuery. We learned about libraries and how to use
+them. jQuery makes life easier and we use less code in many cases. Of course
+sometimes will be easier to use vanilla JS. 
