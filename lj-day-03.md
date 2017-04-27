@@ -167,4 +167,16 @@ In 3D we can use also scale, rotate, translate and skew.
 
   The highlight of today was jQuery. We learned about libraries and how to use
 them. jQuery makes life easier and we use less code in many cases. Of course
-sometimes will be easier to use vanilla JS. 
+sometimes will be easier to use vanilla JS.
+
+**Day 16**
+
+  I learned and improved my knowledge on how to work in a group to wireframe
+a web page with a group. I also learned and improved how to merge together with
+my team and fix merging conflicts.
+
+**Day 17**
+
+  Today I learned how important it's to correctly name variables in Java Script
+during the planning stage. Doing a good job naming variables helps to prevent
+confusion during the coding stage.
