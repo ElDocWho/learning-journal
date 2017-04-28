@@ -180,3 +180,16 @@ my team and fix merging conflicts.
   Today I learned how important it's to correctly name variables in Java Script
 during the planning stage. Doing a good job naming variables helps to prevent
 confusion during the coding stage.
+
+**Day 18**
+
+  Today I learned new tricks with css animation using @keyframes. I also learned
+how to fix major merging conflicts when merging in GitHub.  
+
+**Day 19**
+
+  Today I learned how to deal with css and merging conflicts. While working in
+a team, everybody added css to the project. Then when merging it to GitHub,
+we would get a lot of merging conflicts that we fixed together working as a
+team. So basically we learned to fix conflicts as a team which is of great
+value in a developer's career.
